@@ -1,4 +1,4 @@
-# Template of DS 5110 Project Report
+# Template of DS5110/CS5501 Project Report
 
 
 [Latex](https://www.latex-project.org/) is a software system for
